@@ -1,10 +1,4 @@
-/*
-File: Assignment1.c
-Name: Asmit Kumar Chaudhary
-Roll No: 20
-Department: AP
-Lab No: 1
- */
+
 #include<stdio.h>
 int main(){
     //1.Arithmetic Operator Program
@@ -134,4 +128,5 @@ int main(){
    
     return 0;
 }
+
 
